@@ -1,4 +1,4 @@
-## This tutorial explains how to implement Asynchronous Process, Multi threading or Multitasking in Codeigniter PHP. It allows applications to complete multiple tasks in parallel.
+## This tutorial explains how to implement Asynchronous Process, Multi threading or Multitasking in PHP. It allows applications to complete multiple tasks in parallel.
 
 ## Asynchronous Process means that a process operates independently of other process. It executes process in background.
 
